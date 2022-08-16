@@ -1,2 +1,0 @@
-# BloxFruit
-bloxfruit script
